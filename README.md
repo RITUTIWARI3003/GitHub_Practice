@@ -1,2 +1,2 @@
-# GitHub_Practice
+# RITUTIWARI3003
 Learning Git
